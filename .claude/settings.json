@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '✓ Changes made. Run /qa to verify — or /qa [section name] for a focused check.'"
+          }
+        ]
+      }
+    ]
+  }
+}
