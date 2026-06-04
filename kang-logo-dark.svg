@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
+  <!-- Background -->
+  <rect width="400" height="220" fill="#111827" rx="0"/>
+
+  <!-- K -->
+  <text
+    x="200"
+    y="138"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="110"
+    font-weight="700"
+    fill="#ffffff"
+    text-anchor="middle"
+    letter-spacing="-2"
+  >K</text>
+
+  <!-- Left blue line -->
+  <line x1="94" y1="152" x2="164" y2="152" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right blue line -->
+  <line x1="236" y1="152" x2="306" y2="152" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Wordmark -->
+  <text
+    x="200"
+    y="182"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="13"
+    font-weight="500"
+    fill="#f9fafb"
+    text-anchor="middle"
+    letter-spacing="6"
+  >KANG AUTOMATIONS</text>
+</svg>
